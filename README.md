@@ -37,7 +37,7 @@ stratified train-test split with random_state=42.
 
 ## c. GitHub Repository Link
 
-<PASTE YOUR GITHUB REPO LINK HERE>
+https://github.com/Deepshrma8979/mobile-price-ml-assignment
 
 ## d. Models Used
 
